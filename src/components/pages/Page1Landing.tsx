@@ -18,7 +18,7 @@ export const Page1Landing: React.FC = () => {
         <span className="text-xs uppercase tracking-widest text-blue-600 font-bold bg-blue-50 px-3 py-1 rounded-full">
           Academic Research Survey
         </span>
-        <h1 className="font-serif text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 leading-tight">
+        <h1 className="font-sans text-xl md:text-2xl lg:text-3xl font-semibold text-gray-900 leading-snug max-w-3xl mx-auto">
           Design and Evaluation of an Operational State Optimization Framework for HR Business Processes: A Decision Model for Determining the Optimal Operational State in the Era of Agentic AI
         </h1>
       </div>
